@@ -3,7 +3,7 @@ first page
 first commit;//ㄴㅁㅇㄹㄴsdfsafㅁㅇㄹ
 second commit;//
 third commit//first commit;//
-second commit;//first commit;//asfasdfsadf
+second commit;//first commit;//asfasdfsadfㅁㄴㅇㄹ
 second commit;//sdafㅁㄴㅇㄻㄴㅇ
 third commit//first commit;//dsfdㅇㅀㅇㅀ
 second commit;//dasdbvhgㅁㅁㅇㄴㄹㄻㄴ
