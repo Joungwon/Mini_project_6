@@ -5,10 +5,10 @@ second commit;//
 third commit//first commit;//
 second commit;//first commit;//asfasdfsadfㅁㄴㅇㄹ
 second commit;//sdafㅁㄴㅇㄻㄴㅇ
-third commit//first commit;//dsfdㅇㅀㅇㅀ
+third commit//first commit;//dsfdㅇㅀㅇㅀㅁㄴㅇ
 second commit;//dasdbvhgㅁㅁㅇㄴㄹㄻㄴ
 third commit//fasdfasdfasd
-third commit//first commit;//dfsafsadsda
+third commit//first commit;//dfsafsadsdaㅁㄴㅇ
 second commitㅁㄴㅇㄻㄴㅇㄹ
 third commit//first commit;//ㅇㄴㅁㄹㄴ
 second commit;//third commit//first commit;//ㅇㄴㅁ
