@@ -12,7 +12,7 @@ third commit//first commit;//dfsafsadsdaㅁㄴㅇ
 second commitㅁㄴㅇㄻㄴㅇㄹ
 third commit//first commit;//ㅇㄴㅁㄹㄴㅁㄴㅇㄹ
 second commit;//third commit//first commit;//ㅇㄴㅁ
-second commit;//asdfasdfasf
+second commit;//asdfasdfasfasdfas
 third commit//first commit;//
 second commit;//third commit//first commit;//
 ㄴㅇㅁㄹvbㅇㅇㅇ
