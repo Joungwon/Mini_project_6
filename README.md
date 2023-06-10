@@ -6,8 +6,8 @@ third commit//first commit;//123123
 second commit;//first commit;//asfasdfsadfㅁㄴㅇㄹㅁㄴㅇ
 second commit;//sdafㅁㄴㅇㄻㄴㅇ
 third commit//first commit;//dsfdㅇㅀㅇㅀㅁㄴㅇ
-second commit;//dasdbvhgㅁㅁㅇㄴㄹㄻㄴ
-third commit//fasdfasdfasdㅁㄴㅇㄹ
+second commit;//dasdbvhgㅁㅁㅇㄴㄹㄻㄴ0.
+.02third commit//fasdfasdfasdㅁㄴㅇㄹ
 third commit//first commit;//dfsafsadsdaㅁㄴㅇㅁㄴㅇㄹzxcvz
 second commitㅁㄴㅇㄻㄴㅇㄹㅁㄴㅇ
 third commit//first commit;//ㅇㄴㅁㄹㄴㅁㄴㅇㄹㅁㅇㄻㄴㅇㄻ12321
